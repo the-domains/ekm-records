@@ -1,0 +1,28 @@
+name: EKM RECORDS
+favicon: null
+layout_spectrum: 0.5994368740357459
+typography_spectrum: 0.7546518517192453
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.30016363109461963
+  lightness: 0.01379648013971746
+  saturation: 0.7874248626176268
+  rhythmicContrast: 0.08814414730295539
+purpose: []
