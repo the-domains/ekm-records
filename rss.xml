@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[EKM RECORDS]]></title>
         <description><![CDATA[EKM RECORDS]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ekm-records/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 01:55:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Apr 2016 02:12:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ekm-records/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>​</p>]]></description>
-            <link>undefined5edf4f49-3ae2-4155-94d5-cbe19508c1e0/index.html</link>
+            <link>https://thegrid.ai/ekm-records/5edf4f49-3ae2-4155-94d5-cbe19508c1e0/index.html</link>
             <guid isPermaLink="false">5edf4f49-3ae2-4155-94d5-cbe19508c1e0</guid>
-            <pubDate>Wed, 27 Apr 2016 01:55:32 GMT</pubDate>
+            <pubDate>Wed, 27 Apr 2016 02:12:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
